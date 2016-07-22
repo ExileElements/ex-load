@@ -15,10 +15,10 @@
   "main": "ex-load.html",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ExileElements/ex-load.git"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "",
+  "homepage": "https://github.com/ExileElements/ex-load",
   "ignore": [],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
