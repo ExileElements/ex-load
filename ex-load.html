@@ -1,0 +1,34 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<!--
+`ex-load`
+ajax loader for polymer by exile
+
+@demo demo/index.html 
+-->
+
+<dom-module id="ex-load">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <h2>Hello [[prop1]]</h2>
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'ex-load',
+
+      properties: {
+        prop1: {
+          type: String,
+          value: 'ex-load',
+        },
+      },
+
+    });
+  </script>
+</dom-module>
