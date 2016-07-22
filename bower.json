@@ -2,7 +2,6 @@
   "name": "ex-load",
   "version": "0.0.2",
   "description": "ajax loader for polymer by exile",
-  "private": true,
   "authors": [
     "The Exile Authors"
   ],
